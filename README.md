@@ -11,3 +11,4 @@
 ## 🎣Fishing scripts🎣
 ![2024-03-29_14 11 26](https://github.com/SpareContributor/Taunahi_v3/assets/165363101/24df5ebe-232d-429b-89bb-f61487f8acc3)
 # 💖And many other scripts for Hypixel Skyblock💖
+
